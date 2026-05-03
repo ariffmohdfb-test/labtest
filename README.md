@@ -2,6 +2,6 @@
 
 <h1>LAB TEST</h1>
 
-<b>Name:</b>
+<b>Name:</b> Adam
 
-<b>ID:</b>
+<b>ID:</b> 12345678
